@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @sora-oss
-- 👀 I’m interested in ... cyber security
-- 🌱 I’m currently learning ...more innovative ways to improve the cyber security
-- 💞️ I’m looking to collaborate on ...any cyber sec projects
-- 📫 How to reach me ...
+My name is Sora. I'm a cyber sec engineer currently working on a cryptosystem to make the world a better place. #Woman in STEM!
 
 <!---
 sora-oss/sora-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
