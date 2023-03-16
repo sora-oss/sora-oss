@@ -1,4 +1,4 @@
-My name is Sora. I'm a cyber sec engineer currently working on a cryptosystem to make the world a better place. #Woman in STEM!
+Cyber security analyst.I seriously enjoy figuring stuff out and learning new stuff. Wanna be the best there is incident responder. Did i mention I love to code?
 
 <!---
 sora-oss/sora-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
